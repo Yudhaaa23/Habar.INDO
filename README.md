@@ -27,12 +27,12 @@
 	 <li>Gunakan platform seperti:</li>
 	 <li>Wix.com</li><li>WordPress.com</Li><Li>Google Sites</Li></ul>
 <h2>Dengan Coding (Manual):</h2>
-<ul>
+<UL
 <h3>Alat:</h3>
 <li> Laptop, Text Editor (Notepad++, VS Code)</li>
 <li>Bahasa: HTML, CSS, JavaScript (dasar)</li>
       
-	  </ul>
+
   <h2>3. Cara Buat Website Sederhana dengan HTML + CSS</h2>
   <p>Berikut adalah contoh kode website sederhana menggunakan HTML dan CSS:</p>
 
@@ -50,9 +50,7 @@
 &lt;/html&gt;</code></pre>
 
   <h3>🎨 Buat file CSS</h3>
-  <pre><code>/* style.css */
-body {
-  font-family: Arial, sans-serif;
+  <pre><code>/* style.css */body { font-family: Arial, sans-serif;
   background-color: #f2f2f2;
   text-align: center;
   padding: 50px;
