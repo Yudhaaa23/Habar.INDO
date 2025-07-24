@@ -5,6 +5,7 @@
 	<titleDay 1 Belajar Membuat Website</title>
 	<meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="GIqrRX8_itJ4eRTrAXafTmX4bPE_5YQoAdOw7zfu7Hg" />
   <titleBelajar HTML Lengkap</title>
 	<body>
 	 <header>
